@@ -12,6 +12,7 @@
 		08DF778E228D0DDE00F258DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08DF778C228D0DDE00F258DD /* Main.storyboard */; };
 		08DF7790228D0DDF00F258DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 08DF778F228D0DDF00F258DD /* Assets.xcassets */; };
 		08DF7793228D0DDF00F258DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08DF7791228D0DDF00F258DD /* LaunchScreen.storyboard */; };
+		08DF77B9228D1D0800F258DD /* Page2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08DF77B8228D1D0800F258DD /* Page2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		08DF778F228D0DDF00F258DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		08DF7792228D0DDF00F258DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		08DF7794228D0DDF00F258DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		08DF77B8228D1D0800F258DD /* Page2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				08DF7788228D0DDE00F258DD /* AppDelegate.swift */,
 				08DF778A228D0DDE00F258DD /* ViewController.swift */,
 				08DF778C228D0DDE00F258DD /* Main.storyboard */,
+				08DF77B8228D1D0800F258DD /* Page2.swift */,
 				08DF778F228D0DDF00F258DD /* Assets.xcassets */,
 				08DF7791228D0DDF00F258DD /* LaunchScreen.storyboard */,
 				08DF7794228D0DDF00F258DD /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				08DF778B228D0DDE00F258DD /* ViewController.swift in Sources */,
 				08DF7789228D0DDE00F258DD /* AppDelegate.swift in Sources */,
+				08DF77B9228D1D0800F258DD /* Page2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
